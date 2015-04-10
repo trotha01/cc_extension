@@ -1,0 +1,11 @@
+{
+  "name": "Credit Cards",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "test_cc are test credit cards numbers to use.",
+  "browser_action": {
+    "default_title": "Credit Cards",
+    "default_popup": "popup.html"
+  }
+}
+
